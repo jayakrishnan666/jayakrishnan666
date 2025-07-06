@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 MCA Student at Marian College, Kuttikkanam <br/>
-💻 Full Stack Developer | AI & IoT Enthusiast | DevOps Learner <br/>
+💻 Web Developer | AI & IoT Enthusiast | Graphic Designer  <br/>
 📬 Email: jayakrishj123@gmail.com
 </p>
 
