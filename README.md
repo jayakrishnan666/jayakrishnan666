@@ -64,9 +64,7 @@ I work with modern technologies like **Python**, **Django**, **React**, and **Po
   <a href="mailto:jayakrishj123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://dev.to/jj" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
